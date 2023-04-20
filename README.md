@@ -1,5 +1,5 @@
 # model_app
-
+three.js 模型展示demo 
 ## Project setup
 ```
 npm install
